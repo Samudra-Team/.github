@@ -20,8 +20,12 @@ Today, SamudraIT is more than just a tech company; it's a voyage of endless expl
 ## Members
 1. Muhammad Daffa
    
-![Muhammad Daffa](https://github.com/dap23.png)
+![Muhammad Daffa]([https://github.com/dap23.png](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/m-daffa.webp))
 
-2. David Ramadhan
+2. Leo Anang Miftahul Huda
    
-![David Ramadhan](https://github.com/rama-can.png)
+![Leo Anang Miftahul Huda](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/leo-anang-m.webp)
+
+3. Rama Can
+   
+![Rama Can](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/rama-can.webp)
