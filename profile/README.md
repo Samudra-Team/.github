@@ -18,14 +18,14 @@ Today, SamudraIT is more than just a tech company; it's a voyage of endless expl
 
 
 ## Members
-1. Muhammad Daffa
-   
-![Muhammad Daffa]([https://github.com/dap23.png](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/m-daffa.webp))
+- Muhammad Daffa
 
-2. Leo Anang Miftahul Huda
-   
-![Leo Anang Miftahul Huda](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/leo-anang-m.webp)
+[<img src="https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/m-daffa.webp" width="250"/>](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/m-daffa.webp)
 
-3. Rama Can
+- Leo Anang Miftahul Huda
+
+[<img src="https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/leo-anang-m.webp" width="250"/>](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/leo-anang-m.webp)
+
+- Rama Can
    
-![Rama Can](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/rama-can.webp)
+[<img src="https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/rama-can.webp" width="250"/>](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/rama-can.webp)
