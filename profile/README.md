@@ -15,3 +15,11 @@ As we navigated through the vast digital ocean, we didn't limit ourselves to a s
 
 #### The Samudra Promise
 Today, SamudraIT is more than just a tech company; it's a voyage of endless exploration and innovation. We promise to continue charting new courses, pushing the boundaries of technology and design, and empowering businesses to thrive in the digital age. Our journey is far from over, and we invite you to join us as we set sail into the exciting and ever-evolving world of digital creativity.
+
+
+## Members
+1. Muhammad Daffa
+![Muhammad Daffa](https://github.com/dap23.png)
+
+2. David Ramadhan
+![David Ramadhan](https://github.com/rama-can.png)
