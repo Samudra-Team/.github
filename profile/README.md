@@ -16,16 +16,10 @@ As we navigated through the vast digital ocean, we didn't limit ourselves to a s
 #### The Samudra Promise
 Today, SamudraIT is more than just a tech company; it's a voyage of endless exploration and innovation. We promise to continue charting new courses, pushing the boundaries of technology and design, and empowering businesses to thrive in the digital age. Our journey is far from over, and we invite you to join us as we set sail into the exciting and ever-evolving world of digital creativity.
 
+## Teams
 
-## Members
-- Muhammad Daffa
+| ![M Daffa](https://images.weserv.nl/?url=https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/m-daffa.webp&w=50&h=50&fit=cover&mask=circle) <br> [M Daffa](https://github.com/dap23) | ![Leo Anang](https://images.weserv.nl/?url=https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/leo-anang-m.webp&w=50&h=50&fit=cover&mask=circle) <br> [Leo Anang](https://github.com/leoanangmh) | ![Rama Can](https://images.weserv.nl/?url=https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/rama-can.webp&w=50&h=50&fit=cover&mask=circle) <br> [Rama Can](https://github.com/rama-can) |
+|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
 
-[<img src="https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/m-daffa.webp" width="250"/>](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/m-daffa.webp)
 
-- Leo Anang Miftahul Huda
 
-[<img src="https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/leo-anang-m.webp" width="250"/>](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/leo-anang-m.webp)
-
-- Rama Can
-   
-[<img src="https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/rama-can.webp" width="250"/>](https://raw.githubusercontent.com/samudra-team/.github/refs/heads/main/profile/assets/rama-can.webp)
